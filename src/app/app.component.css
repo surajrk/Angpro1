@@ -1,0 +1,21 @@
+.form1 {
+    border-color: aqua;
+}
+.inputWidth {
+    width: 100%;
+}
+.space {
+   margin-left: 10px ;
+   width: 91%;
+}
+.space1{
+    margin-left: 28px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#border{
+    border: 2px solid red;
+}
+.space2{
+    margin-left: 2px;
+}
